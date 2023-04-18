@@ -1,0 +1,11 @@
+JSTL
+
+jsp standard tag library
+jsp 에서 빈번하게 사용하는 반복문 조건문을 처리하는 동작을 모아 표준으로 만든 태그 라이브러리
+
+[종류]					[기능]						[접두어(prefix)
+1.core				변수,선언,조건문,반복문,url처리			c
+2.formatting		숫자,날짜,시간 포멧 지정				fmt
+3.xml				xml parsing 할때 쓰임				x
+4.function			컬렉션,문자열 처리					fn
+5.sql				데이터베이스 연결 및 쿼리 실행			sql
